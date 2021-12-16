@@ -1,11 +1,13 @@
-<h1 align="center">Hi 👋, I'm Conor Howlett</h1>
-<h3 align="center">Data science graduate student at New College of Florida</h3>
+<h1 align="center">Hi, I'm Conor Howlett</h1>
+<h3 align="center">Data scientist</h3>
 
-- 🌱 I’m currently learning **deeplearning techniques using Pytorch.**
+-   I’m currently a second year graduate student at **New College of Florida**.
 
-- 👨‍💻 Some of my public projects are available at [https://github.com/Chowlett2](https://github.com/Chowlett2)
+-   My recent academic efforts have been largely in the **deeplearning space utilizing Pytorch**.
 
-- ⚡ Fun fact **I'm ranked in the top 0.01% of all Hearthstone players.**
+-   Some of my public projects can be found on this Github under **Repositories**.
+
+- ⚡ Fun fact **I love card games like MTG and Hearthstone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
