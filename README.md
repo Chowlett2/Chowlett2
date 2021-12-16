@@ -9,7 +9,7 @@
 
 - ⚡ Fun fact: **I love card games like MTG and Hearthstone.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me here!</h3>
 <p align="left">
 </p>
 
