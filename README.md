@@ -7,7 +7,7 @@
 
 -   Some of my public projects can be found on this Github under **Repositories**.
 
-- ⚡ Fun fact **I love card games like MTG and Hearthstone.**
+- ⚡ Fun fact: **I love card games like MTG and Hearthstone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
