@@ -7,7 +7,7 @@
 
 -   My recent academic efforts have been largely in the **deeplearning space utilizing Pytorch**.
 
--   Some of my public projects can be found on this Github under **Repositories**.
+-   Some of my public projects can be found on this Github under **Repositories** or in the pinned selections **below**.
 
 - ⚡ Fun fact: **I love card games like MTG and Hearthstone.**
 
