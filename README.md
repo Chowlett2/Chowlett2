@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Conor Howlett</h1>
-<h3 align="center">Data scientist</h3>
+<h3 align="center">Data scientist and Python Developer</h3>
 
 -   I’m currently a second year graduate student at **New College of Florida**.
+
+-   I am expected to graduate in May of 2022 with a **Masters of Science in Data Science**.
 
 -   My recent academic efforts have been largely in the **deeplearning space utilizing Pytorch**.
 
