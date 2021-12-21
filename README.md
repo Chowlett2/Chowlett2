@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Conor Howlett</h1>
+<h1 align="center">Conor Howlett</h1>
 <h3 align="center">Data scientist and Python Developer</h3>
 
 -   I’m currently a second year graduate student at **New College of Florida**.
