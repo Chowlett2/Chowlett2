@@ -1,15 +1,9 @@
 <h1 align="center">Conor Howlett</h1>
 <h3 align="center">Data scientist and Python Developer</h3>
 
--   I’m currently a second year graduate student at **New College of Florida**.
-
--   I am expected to graduate in May of 2022 with a **Masters of Science in Data Science**.
-
--   My recent academic efforts have been largely in the **deeplearning space utilizing Pytorch**.
+-   **Masters of Science in Data Science** from **New College of Florida**
 
 -   Some of my public projects can be found on this Github under **Repositories** or in the pinned selections **below**.
-
-- ⚡ Fun fact: **I love playing card games like MTG and Hearthstone.**
 
 <p align="left">
 </p>
