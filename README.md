@@ -1,5 +1,5 @@
 <h1 align="center">Conor Howlett</h1>
-<h3 align="center">Data scientist and Python Developer</h3>
+<h3 align="center">Data scientist</h3>
 
 -   **Masters of Science in Data Science** from **New College of Florida**
 
