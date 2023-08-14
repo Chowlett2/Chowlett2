@@ -3,7 +3,7 @@
 
 -   **Masters of Science in Data Science** from **New College of Florida**
 
--   Some of my public projects can be found on this Github under **Repositories** or in the pinned selections **below**.
+-   Some of my personal projects and collaborations can be found on this Github under **Repositories** or in the pinned selections **below**.
 
 <p align="left">
 </p>
